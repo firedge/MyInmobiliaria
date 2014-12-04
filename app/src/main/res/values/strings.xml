@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Inmobiliaria</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_formulario">Formulario</string>
+    <string name="formulario_titulo">Registrar Inmueble</string>
+    <string name="bt_aceptar">Aceptar</string>
+    <string name="bt_cancelar">Cancelar</string>
+    <string name="et_localidad">Localidad</string>
+    <string name="et_direccion">Dirección</string>
+    <string name="et_precio">Precio</string>
+    <string name="action_nuevo">Nuevo inmueble</string>
+    <string name="action_foto">Añadir fotos</string>
+    <string name="action_editar">Editar</string>
+    <string name="action_borrar">Eliminar</string>
+    <string name="formulario_error">Campos incorrectos</string>
+    <string name="formulario_alta">Nuevo inmueble guardado</string>
+    <string name="formulario_edicion">Datos modificados correctamente</string>
+
+    <array name="tipos">
+        <item>Casa</item>
+        <item>Piso</item>
+        <item>Cochera</item>
+        <item>Trastero</item>
+    </array>
+
+    <string name="title_activity_actividad_detalle">ActividadDetalle</string>
+    <string name="bt_anterior">Anterior</string>
+    <string name="bt_siguiente">Siguiente</string>
+
+</resources>
